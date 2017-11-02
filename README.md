@@ -1,4 +1,4 @@
-# Your First HTML Tag
+# Navigation and Nested Elements HTML Lab
 
 ## Objectives
 
