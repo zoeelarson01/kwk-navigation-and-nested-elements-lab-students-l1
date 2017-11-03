@@ -2,12 +2,16 @@
 
 ## Objectives
 
-1. Code an `h1` tag in `index.html`
-2. Make the inner text of the `h1` Hello, World!
+1. Create a `header` including navigation and branding.
+2. Nest HTML elements to create well-organized, structured content.
 
 ## Instructions
 
-Open `index.html` in your text editor. Add an `h1` tag with the inner text of `Hello, World!` anywhere in the file. You can run the tests with this lab via `learn`. Read the error messages in your tests, they contain hints!
+Open `index.html` in your text editor. You'll see the code that we wrote in the previous lab. In this lab, you're tasked with extending that well-formed HTML template with a navigation header, in the process practicing how to nest HTML elements to create a structured document.
+
+First, add a set of `header` tags inside the document `body` to enclose the site navigation and branding. Inside the `header`, we're going to add two things: a `nav` to house our site navigation links and an `h3` to serve as the branding for our site. Start by creating opening and closing `nav` tags, and inside those create an `u`nordered `l`ist. Inside the `ul`, add a pair of nested `li`st elements to represent the other pages of the site. Finally, below the `nav` (but still inside the `header`), add an `h3` containing the site's name, which can be whatever you like!
+
+You can run the tests with this lab via `learn`. Make sure you save the file before running the test suite. Failing tests will provide helpful error messages that you can use to debug your code — read them closely for hints!
 
 ## Viewing your work in the browser
 
@@ -19,4 +23,5 @@ Once you have the HTML document open in your browser, you can make changes to it
 
 ## Resources
 
-* [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
+* [W3S — HTML `<ul>` Tag](https://www.w3schools.com/tags/tag_ul.asp)
+* [MDN — `<nav>` example](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav#Examples)
