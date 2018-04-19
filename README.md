@@ -25,3 +25,4 @@ Once you have the HTML document open in your browser, you can make changes to it
 
 * [W3S — HTML `<ul>` Tag](https://www.w3schools.com/tags/tag_ul.asp)
 * [MDN — `<nav>` example](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav#Examples)
+<p data-visibility='hidden'>KWK-T1 Navigation and Nested Elements HTML Lab</p>
